@@ -1,5 +1,5 @@
 
-# Phoebe – Desktop Voice Assistant
+## Phoebe – Desktop Voice Assistant
 
 Phoebe is a Python-based voice-controlled desktop assistant that helps automate everyday tasks like opening websites, launching apps, playing music, and checking the time using simple voice commands.
 
@@ -51,16 +51,16 @@ Phoebe is designed to make desktop tasks faster and hands-free. Using speech rec
 
 3. Install dependencies:
 
-# For speech recognition
+For speech recognition
 pip install SpeechRecognition
-# For text-to-speech
+For text-to-speech
 pip install pyttsx3
-# For working with date and time (built-in, no install needed)
-# datetime is part of Python's standard library
-# For OS operations (built-in, no install needed)
-# os is part of Python's standard library
-# For opening web pages
-# webbrowser is part of Python's standard library
+For working with date and time (built-in, no install needed)
+datetime is part of Python's standard library
+For OS operations (built-in, no install needed)
+os is part of Python's standard library
+For opening web pages
+webbrowser is part of Python's standard library
 
 4. Run the application:
 
