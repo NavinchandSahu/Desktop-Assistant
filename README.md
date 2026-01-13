@@ -43,25 +43,32 @@ Phoebe is designed to make desktop tasks faster and hands-free. Using speech rec
 
 ## Installation
 
-1. Clone the repository:  
-  (https://github.com/NavinchandSahu/Desktop-Assistant)
+1. Clone the repository: https://github.com/NavinchandSahu/Desktop-Assistant
 
 2. Navigate to the project folder:
    https://github.com/NavinchandSahu/Desktop-Assistant/blob/main/Desktop-Assistant.py
 
 3. Install dependencies:
 
-For speech recognition
-pip install SpeechRecognition
-For text-to-speech
-pip install pyttsx3
-For working with date and time (built-in, no install needed)
-datetime is part of Python's standard library
-For OS operations (built-in, no install needed)
-os is part of Python's standard library
-For opening web pages
-webbrowser is part of Python's standard library
-
+  For speech recognition
+  ```bash
+  pip install SpeechRecognition
+  ```
+  
+  For text-to-speech
+  ```bash
+  pip install pyttsx3
+  ```
+  
+  For working with date and time (built-in, no install needed)
+  datetime is part of Python's standard library
+  
+  For OS operations (built-in, no install needed)
+  os is part of Python's standard library
+  
+  For opening web pages
+  webbrowser is part of Python's standard library
+  
 4. Run the application:
 
    ```bash
